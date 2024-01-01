@@ -44,7 +44,7 @@ class NetaddrStack(Stack):
                 _lambda.Runtime.PYTHON_3_10,
                 _lambda.Runtime.PYTHON_3_11
             ],
-            description = 'netaddr 0.9.0 (https://github.com/netaddr/netaddr)',
+            description = 'netaddr 0.10.0 (https://github.com/netaddr/netaddr)',
             layer_version_name = 'netaddr',
             license = 'BSD License',
             removal_policy = RemovalPolicy.DESTROY
